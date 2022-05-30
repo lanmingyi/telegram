@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+.cxx/
+build/
+obj/
+*.iml
+local.properties
